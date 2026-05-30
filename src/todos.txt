@@ -1,0 +1,43 @@
+---------------COMPLETED--------------
+
+------------IN PROGRESS---------------------
+- Easing visualizer
+- Box shadow generator
+
+-----------------------------------------------------------------------------
+other ideas----------------------------------------------------------------------------------
+https://toolfolio.io/
+
+- box shadow generator
+- border radius generator / corner shape generator
+- https://photogradient.com/
+- Easing visualizer
+    - https://cubic-bezier.com/
+    - https://linear-easing-generator.netlify.app/
+    - https://originui.com/easings
+    - https://easings.net/#
+    - Easing wizard
+    - https://matthewlein.com/tools/ceaser
+    - https://www.joshwcomeau.com/shadow-palette/
+    - https://easingwizard.com/
+    - https://www.joshwcomeau.com/gradient-generator/
+    - josh comeau animation generator
+    - https://collections.designzig.com/ 
+= https://corner-inverter.douiri.org/
+-- Custom SVG Path Editor,
+-- CSS Clip-Path Generator,
+-- http://Cssgridgenerator.io
+-- clip path converter - yoksel
+-- Performance Checklist Generator
+-- Font visualizer, downloader
+-- Css shapes
+-- https://noamr.github.io/squircle-testbed/?s=09
+-- Web dev utils
+-- https://learning-axis.com/tools/
+-- https://flatlogic.com/templates 
+-- https://emilkowal.ski/ui/the-magic-of-clip-path
+-- Josh comeau tools
+-- css by t.afif tools
+-- css weekly tools
+-- css shape()
+-- css clip-path()
