@@ -1,9 +1,9 @@
 export const releaseNotes = [
     {
-        version: "0.0",
-        date: "01.01.2000",
+        version: "0.1.0",
+        date: "TBD",
         desc: [
-            "Sample",
+            "TBD",
         ]
     },
 ]
